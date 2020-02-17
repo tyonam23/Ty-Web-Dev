@@ -1,11 +1,11 @@
 
 p{
-    background-color: goldenrod
+    background-color: goldenrod;
     width: 50%;
     height: 300px;
 }
 
-a {
+a{
     background-color: aqua;
     color: lightcoral;
     width: 500px;
@@ -14,7 +14,7 @@ a {
 
 div{
     display: inline-block;
-    width: 50% 
+    width: 50% ;
     height: 400px;
     background-color: pink;
 }
@@ -22,12 +22,12 @@ div{
 
 #green-box{
 
-    position: relative;
-    top
+    position: relative
+    top;
 
     
     display: block;
-    background-color: bisque
+    background-color: bisque;
     width: 200px;
     height: 200px;
 
@@ -37,7 +37,7 @@ div{
 
 #blue-box {
     position: fixed;
-    bottom:20px
+    bottom:20px;
     right: 20 px;
     display: block;
     background-color: orange;

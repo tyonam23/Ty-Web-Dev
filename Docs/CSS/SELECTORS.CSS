@@ -1,0 +1,48 @@
+
+/*element selctor: selects HTML element*/
+h1 {
+    color: darkolivegreen;
+    background-color: orange;
+    font-size: 3em
+}
+
+div{
+    width: 200px;
+    height:200px;
+    border:3px solid brown; 
+    font-size: 2em;
+    text-align: center;
+    margin: 10px;
+    background-color: green;
+
+}
+p{
+    color: blue;
+}
+
+
+/*ID selectors: select IDs assigned to HTML elements. THere should only be one instance of an ID on an HTML page*/
+
+#home-title {
+    text-align: center;
+}
+/*Classes are reusable selectors*/
+
+.purple{
+    background-color: purple;
+
+}
+.red{
+    background-color:
+    red;
+}
+
+.underline {
+    text-decoration:
+    underline;
+}
+
+.underline > p{
+    color: red
+
+}
