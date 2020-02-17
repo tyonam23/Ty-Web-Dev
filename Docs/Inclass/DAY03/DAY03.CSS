@@ -1,0 +1,47 @@
+
+p{
+    background-color: goldenrod
+    width: 50%;
+    height: 300px;
+}
+
+a {
+    background-color: aqua;
+    color: lightcoral;
+    width: 500px;
+    height: 400px;
+}
+
+div{
+    display: inline-block;
+    width: 50% 
+    height: 400px;
+    background-color: pink;
+}
+
+
+#green-box{
+
+    position: relative;
+    top
+
+    
+    display: block;
+    background-color: bisque
+    width: 200px;
+    height: 200px;
+
+
+}
+
+
+#blue-box {
+    position: fixed;
+    bottom:20px
+    right: 20 px;
+    display: block;
+    background-color: orange;
+    color: white;
+    
+
+}

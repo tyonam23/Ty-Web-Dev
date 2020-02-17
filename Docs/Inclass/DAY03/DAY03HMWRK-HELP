@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+            <link rel="stylesheet"
+            href="DAY03.CSS">
+        <title>Day 03</title>
+    </head>
+<body>
+
+
+    <!--Go over display properties-->
+    <h1> Display stuff</h1>
+
+    <p> This is a paragraph element, which is
+         a block level element</p>
+
+    <a href="http:crouton.net"> i bet you know where this goes</a>
+
+    <div>this is an an inline-block element div element</div> 
+
+    <h1> Positioning stuff</h1>
+
+    <div> id="green-box"> Absolute Positioning</div>
+
+    <div> id="red-box"> Relative Positioning</div>
+
+    <div> id="blue-box"> Fixed Positioning</div>
+
+
+    <body>
+    </html>
